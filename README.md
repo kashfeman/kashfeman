@@ -27,7 +27,7 @@ Outside of coding, you'll often find me on the cricket field or catching up on t
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ### Backend  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=green)
 
 ### Other Skills  
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
