@@ -10,7 +10,7 @@ Outside of coding, you'll often find me on the cricket field or catching up on t
 ## 🌐 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-kashfeman-181717?logo=github)](https://github.com/kashfeman)   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kashafeman-blue?logo=linkedin)](https://www.linkedin.com/in/kashafeman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kashafeman-purple?logo=linkedin)](https://www.linkedin.com/in/kashafeman)
 
 📧 [kashafeman20@gmail.com](mailto:kashafeman20@gmail.com)
 
